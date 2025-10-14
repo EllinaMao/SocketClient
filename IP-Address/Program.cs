@@ -13,7 +13,7 @@ namespace IP_Address
         {
             IPAddress ipAddr = IPAddress.Parse("127.0.0.1");/// локальна адреса вашого хост
 
-            for (int i = 1; i < 1024; i++)////діапазон від 0 до 1023 системні зарезервоані порти
+            for (int i = 1; i < 1024; i++)////діапазон від 1 до 1023 системні зарезервоані порти
             {
                 Console.WriteLine("Checking port {0}", i);
                 try
