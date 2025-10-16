@@ -122,7 +122,7 @@ namespace Practice_Socets_client
                 Console.WriteLine(ex.ToString());
             }
             //finally
-            //{
+            //{ 
             //    CloseSock();
                 
             //}
