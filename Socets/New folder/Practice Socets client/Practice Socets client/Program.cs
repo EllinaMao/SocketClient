@@ -1,5 +1,5 @@
 ﻿namespace Practice_Socets_client
-{
+{//
     internal class Program
     {
         static void Main(string[] args)
