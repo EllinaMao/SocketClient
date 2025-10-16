@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice Socets server", "Practice Socets server\Practice Socets server.csproj", "{B9A3667B-D907-4E7E-86D3-55B99EF1BCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A3667B-D907-4E7E-86D3-55B99EF1BCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A3667B-D907-4E7E-86D3-55B99EF1BCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A3667B-D907-4E7E-86D3-55B99EF1BCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A3667B-D907-4E7E-86D3-55B99EF1BCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E8996D-1FE8-44E7-B472-3ECAC319D71D}
+	EndGlobalSection
+EndGlobal
